@@ -7,9 +7,11 @@
 
     {% for item in showcase.items %}
         <section class="showcase">
+            {% if item.image %}
             <figure class="image {% if item.image_ratio %} {{ item.image_ratio }} {% else %} is-16by9 {% endif %}">
                 <img src="{{ item.image | relative_url }}" />
             </figure>
+            {% endif %}
             <div class="showcase-content">
                 <div class="columns is-centered">
                     <div class="column is-8-desktop is-12-tablet">
@@ -21,7 +23,7 @@
                             <a href="https://github.com/{{ item.github }}/stargazers" class="button is-white is-small">
                                 <img alt="GitHub stars" src="https://img.shields.io/github/stars/{{ item.github }}?style=social">
                             </a>
-                            <a href="https://github.com/{{ showcase.github }}/network/members" class="button is-white is-small">
+                            <a href="https://github.com/{{ item.github }}/network/members" class="button is-white is-small">
                                 <img alt="GitHub forks" src="https://img.shields.io/github/forks/{{ item.github }}?style=social">
                             </a>
                             <a href="https://github.com/{{ item.github }}/watchers" class="button is-white is-small">
