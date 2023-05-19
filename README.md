@@ -1,4 +1,4 @@
-# bulma-based-theme
+# bulma-simple-theme
 
 This is a simple Jekyll Theme built with the [Bulma](https://bulma.io/) framework, based on the [Bulma Clean Theme by C.S. Rhymes](https://github.com/chrisrhymes/bulma-clean-theme), providing a modern-looking site to start with.
 
@@ -19,7 +19,7 @@ If you are deploying to GitHub pages, then you can install the [GitHub Pages gem
 
 ```yaml
 # With GitHub Pages Gem
-remote_theme: ianfab/bulma-based-theme
+remote_theme: ianfab/bulma-simple-theme
 ```
 
 And then execute:
@@ -28,15 +28,15 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install bulma-based-theme
+    $ gem install bulma-simple-theme
 
 ## Documentation
 
-Check out the demo site for the [Documentation](https://www.csrhymes.com/bulma-based-theme/docs/)
+Check out the demo site for the [Documentation](https://www.csrhymes.com/bulma-simple-theme/docs/)
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/ianfab/bulma-based-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ianfab/bulma-simple-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Development
 

@@ -28,7 +28,7 @@ title: The series title
 sections:
   - items:
       - title: Why use a static site generator
-      - title: Getting started with Bulma Based Theme for Jekyll
+      - title: Getting started with Bulma Simple Theme for Jekyll
 ```
 
 Here is a full example with multiple sections with labels.
@@ -40,11 +40,11 @@ sections:
   - label: The first section
     items:
       - title: Why use a static site generator
-      - title: Getting started with Bulma Based Theme for Jekyll
+      - title: Getting started with Bulma Simple Theme for Jekyll
   - label: Another section
     items:
-      - title: Introducing some new layouts to Bulma Based Theme
-      - title: Creating a docs site with Bulma Based Theme
+      - title: Introducing some new layouts to Bulma Simple Theme
+      - title: Creating a docs site with Bulma Simple Theme
       - title: Creating a post series
 ```
 

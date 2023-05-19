@@ -1,5 +1,5 @@
 {
-    "name": "bulma-based-theme",
+    "name": "bulma-simple-theme",
     "description": "This is a simple Jekyll Theme built with the Bulma framework, providing a modern looking site to start with.",
     "version": "0.0.1",
     "main": "index.js",

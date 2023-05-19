@@ -13,7 +13,7 @@ Much of a Jekyll's configuration is held in the `_config.yml` file in the projec
 
 For information on general Jekyll configuration, please check out the [Jekyll docs](https://jekyllrb.com/docs/configuration/).
 
-Below are some specific options that you might want to set in your `_config.yml` when using Bulma Based Theme.
+Below are some specific options that you might want to set in your `_config.yml` when using Bulma Simple Theme.
 
 ## Lang
 
@@ -38,7 +38,7 @@ If you have a GitHub sponsors account set up, you can add your username to `gh_s
 gh_sponsor: ianfab
 ```
 
-Further information on Sponsors feature available in the [Sponsors docs page](/bulma-based-theme/docs/sponsors/).
+Further information on Sponsors feature available in the [Sponsors docs page](/bulma-simple-theme/docs/sponsors/).
 
 ## Disqus
 

@@ -1,28 +1,28 @@
 ---
-title: Bulma Based Theme
-subtitle: This is the demo site for Bulma Based Theme
+title: Bulma Simple Theme
+subtitle: This is the demo site for Bulma Simple Theme
 layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Based Theme demo website
+# Bulma Simple Theme demo website
 
-This website showcases the options for the Bulma Based theme. The theme can be used with GitHub pages.
+This website showcases the options for the Bulma Simple theme. The theme can be used with GitHub pages.
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ianfab/bulma-based-theme?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/ianfab/bulma-simple-theme?style=social)
 
 ## GitHub Pages
 
 The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
 
 ```yml
-remote_theme: ianfab/bulma-based-theme
+remote_theme: ianfab/bulma-simple-theme
 ```
 
 ## Documentation
 
-For full instructions, please see the [Documentation](/bulma-based-theme/docs/)
+For full instructions, please see the [Documentation](/bulma-simple-theme/docs/)
 
 ## Page Layouts
 

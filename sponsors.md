@@ -6,4 +6,4 @@ sponsors: example_sponsors
 show_sidebar: false
 ---
 
-[View the sponsors docs](/bulma-based-theme/docs/page-components/sponsors/)
+[View the sponsors docs](/bulma-simple-theme/docs/page-components/sponsors/)

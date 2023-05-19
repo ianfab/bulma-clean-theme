@@ -14,13 +14,13 @@ toc: true
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "bulma-based-theme"
+gem "bulma-simple-theme"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: bulma-based-theme
+theme: bulma-simple-theme
 ```
 
 And then execute:
@@ -29,7 +29,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install bulma-based-theme
+    $ gem install bulma-simple-theme
 
 ## GitHub Pages
 
@@ -37,5 +37,5 @@ If you are deploying to GitHub pages, then you can also install the [GitHub Page
 
 ```yaml
 # With GitHub Pages Gem
-remote_theme: ianfab/bulma-based-theme
+remote_theme: ianfab/bulma-simple-theme
 ```

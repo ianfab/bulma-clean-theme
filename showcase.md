@@ -7,4 +7,4 @@ showcase: showcase_example
 show_sidebar: false
 ---
 
-[View the showcase docs](/bulma-based-theme/docs/page-components/showcases/)
+[View the showcase docs](/bulma-simple-theme/docs/page-components/showcases/)

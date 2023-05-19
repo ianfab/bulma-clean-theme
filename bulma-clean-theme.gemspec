@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "bulma-based-theme"
+  spec.name          = "bulma-simple-theme"
   spec.version       = "0.0.1"
   spec.authors       = ["Fabian Fichter"]
   spec.email         = ["fabianfichter90@gmail.com"]
 
   spec.summary       = "Simple Jekyll theme built using Bulma"
-  spec.homepage      = "https://www.github.com/ianfab/bulma-based-theme"
+  spec.homepage      = "https://www.github.com/ianfab/bulma-simple-theme"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|_posts|blog|LICENSE|README|package|node_modules|favicon)!i) }

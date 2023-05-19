@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Bulma
 
-Bulma Based Theme uses the Bulma frontend framework. Check out the [Bulma docs](https://bulma.io/documentation/) for more information.
+Bulma Simple Theme uses the Bulma frontend framework. Check out the [Bulma docs](https://bulma.io/documentation/) for more information.
 
 ## Setting the Primary Colour
 

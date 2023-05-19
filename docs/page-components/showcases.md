@@ -11,7 +11,7 @@ toc: true
 
 A showcase allows you to showcase your work with a large image, description and a list of features. 
 
-[View an example showcase](/bulma-based-theme/showcase)
+[View an example showcase](/bulma-simple-theme/showcase)
 
 ## Creating A Showcase Datafile
 
@@ -21,7 +21,7 @@ The description text accepts markdown and is run through the markdownify filter 
 
 The image_ratio will default to is-16by9 if it is not defined and accepts the [Bulma image](https://bulma.io/documentation/elements/image/) classes.
 
-To display GitHub Stars, Forks and Watchers badges add your GitHub user and repo name to the github setting, such as `ianfab/bulma-based-theme`
+To display GitHub Stars, Forks and Watchers badges add your GitHub user and repo name to the github setting, such as `ianfab/bulma-simple-theme`
 
 To change the default styles of the features, set `features_styles`. This uses the styles from [bulma-block-list](https://www.csrhymes.com/bulma-block-list/) npm package.
 
