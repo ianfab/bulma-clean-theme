@@ -32,7 +32,7 @@ Or install it yourself as:
 
 ## Documentation
 
-Check out the demo site for the [Documentation](https://www.csrhymes.com/bulma-simple-theme/docs/)
+Check out the demo site for the [Documentation](https://ianfab.github.io/bulma-simple-theme/docs/)
 
 ## Contributing
 
