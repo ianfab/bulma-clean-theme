@@ -22,7 +22,7 @@ remote_theme: ianfab/bulma-simple-theme
 
 ## Documentation
 
-For full instructions, please see the [Documentation](/docs/)
+For full instructions, please see the [Documentation](/bulma-simple-theme/docs/)
 
 ## Page Layouts
 
