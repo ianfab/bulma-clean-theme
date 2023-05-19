@@ -21,4 +21,4 @@ show_sidebar: false
 sort: title
 ```
 
-[View example Category page](/bulma-clean-theme/products/)
+[View example Category page](/bulma-based-theme/products/)

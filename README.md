@@ -1,6 +1,6 @@
-# bulma-clean-theme
+# bulma-based-theme
 
-This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/) framework, based on the [Bulma Clean Theme by C.S. Rhymes](https://github.com/chrisrhymes/bulma-clean-theme), providing a modern-looking site to start with.
+This is a simple Jekyll Theme built with the [Bulma](https://bulma.io/) framework, based on the [Bulma Clean Theme by C.S. Rhymes](https://github.com/chrisrhymes/bulma-clean-theme), providing a modern-looking site to start with.
 
 The theme uses [Alpine.js](https://github.com/alpinejs/alpine) for its interactive components, such as mobile navbar and notifications.
 
@@ -19,7 +19,7 @@ If you are deploying to GitHub pages, then you can install the [GitHub Pages gem
 
 ```yaml
 # With GitHub Pages Gem
-remote_theme: ianfab/bulma-clean-theme
+remote_theme: ianfab/bulma-based-theme
 ```
 
 And then execute:
@@ -28,15 +28,15 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install bulma-clean-theme
+    $ gem install bulma-based-theme
 
 ## Documentation
 
-Check out the demo site for the [Documentation](https://www.csrhymes.com/bulma-clean-theme/docs/)
+Check out the demo site for the [Documentation](https://www.csrhymes.com/bulma-based-theme/docs/)
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/ianfab/bulma-clean-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ianfab/bulma-based-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Development
 
