@@ -12,7 +12,7 @@ toc: true
 If you have a GitHub sponsors account set up, you can add your username to `gh_sponsor` in the `_config.yml` file and it will display a link to your profile on the right of the navbar.
 
 ```yaml
-gh_sponsor: chrisrhymes
+gh_sponsor: ianfab
 ```
 
 ## Listing your sponsors

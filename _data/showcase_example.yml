@@ -3,18 +3,22 @@ intro: |-
 
   [View the showcase docs](/bulma-clean-theme/docs/page-components/showcases/)
 items:
-  - title: C.S. Rhymes Website
-    subtitle: csrhymes.com
+  - title: Fairy-Stockfish Website
+    subtitle: fairy-stockfish.github.io
     description: |-
-      The C.S. Rhymes website is built using Bulma Clean Theme.
-
-      This website utilises the built in blog and products layouts that come included with the theme.
-    image: /img/csrhymes-com.jpg
-    image_ratio: is-16by9
-    link: https://www.csrhymes.com
-    link_text: View the CS Rhymes Website
+      The Fairy-Stockfish website is built using Bulma Clean Theme.
+    link: https://fairy-stockfish.github.io/
+    link_text: View the Fairy-Stockfish Website
     tags: Bulma,CSS,Jekyll
-    github: chrisrhymes/chrisrhymes.github.io
+    github: fairy-stockfish/fairy-stockfish.github.io
+  - title: Chess Variants Website
+    subtitle: chess-variants.github.io
+    description: |-
+      The Chess Variant hub website is built using Bulma Clean Theme.
+    link: https://chess-variants.github.io/
+    link_text: View the Chess Variants Hub Website
+    tags: Bulma,CSS,Jekyll
+    github: chess-variants/chess-variants.github.io
   - title: Bulma Clean Theme
     subtitle: A clean and simple theme built with Bulma
     description: |-
@@ -33,7 +37,7 @@ items:
     features_styles: is-centered is-outlined
     image: /img/bulma-clean-theme-4by3.jpg
     image_ratio: is-4by3
-    link: https://github.com/chrisrhymes/bulma-clean-theme
+    link: https://github.com/ianfab/bulma-clean-theme
     link_text: View Theme
     tags: Jekyll,Bulma,CSS
-    github: chrisrhymes/bulma-clean-theme
+    github: ianfab/bulma-clean-theme

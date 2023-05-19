@@ -1,9 +1,6 @@
 # bulma-clean-theme
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-
-This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/) framework, providing a modern-looking site to start with. 
+This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/) framework, based on the [Bulma Clean Theme by C.S. Rhymes](https://github.com/chrisrhymes/bulma-clean-theme), providing a modern-looking site to start with.
 
 The theme uses [Alpine.js](https://github.com/alpinejs/alpine) for its interactive components, such as mobile navbar and notifications.
 
@@ -18,23 +15,11 @@ The theme uses [Alpine.js](https://github.com/alpinejs/alpine) for its interacti
 
 ## Installation
 
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "bulma-clean-theme"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: bulma-clean-theme
-```
-
-If you are deploying to GitHub pages, then you can also install the [GitHub Pages gem](https://github.com/github/pages-gem) and use `remote_theme` instead of `theme` in your `_config.yml`. **Note that the GitHub Pages gem requires Jekyll version 3.9.**
+If you are deploying to GitHub pages, then you can install the [GitHub Pages gem](https://github.com/github/pages-gem) and use `remote_theme` instead of `theme` in your `_config.yml`. **Note that the GitHub Pages gem requires Jekyll version 3.9.**
 
 ```yaml
 # With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: ianfab/bulma-clean-theme
 ```
 
 And then execute:
@@ -51,7 +36,7 @@ Check out the demo site for the [Documentation](https://www.csrhymes.com/bulma-c
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/chrisrhymes/bulma-clean-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ianfab/bulma-clean-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Development
 

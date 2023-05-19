@@ -21,7 +21,7 @@ The description text accepts markdown and is run through the markdownify filter 
 
 The image_ratio will default to is-16by9 if it is not defined and accepts the [Bulma image](https://bulma.io/documentation/elements/image/) classes.
 
-To display GitHub Stars, Forks and Watchers badges add your GitHub user and repo name to the github setting, such as `chrisrhymes/bulma-clean-theme`
+To display GitHub Stars, Forks and Watchers badges add your GitHub user and repo name to the github setting, such as `ianfab/bulma-clean-theme`
 
 To change the default styles of the features, set `features_styles`. This uses the styles from [bulma-block-list](https://www.csrhymes.com/bulma-block-list/) npm package.
 

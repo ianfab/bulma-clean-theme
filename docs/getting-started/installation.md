@@ -37,5 +37,5 @@ If you are deploying to GitHub pages, then you can also install the [GitHub Page
 
 ```yaml
 # With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: ianfab/bulma-clean-theme
 ```
