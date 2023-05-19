@@ -1,7 +1,7 @@
 intro: |-
   This is an example showcase page to show you how you can use it to easily showcase your work.
 
-  [View the showcase docs](/bulma-simple-theme/docs/page-components/showcases/)
+  [View the showcase docs](/docs/page-components/showcases/)
 items:
   - title: Fairy-Stockfish Website
     subtitle: fairy-stockfish.github.io

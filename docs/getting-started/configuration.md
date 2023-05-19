@@ -38,7 +38,7 @@ If you have a GitHub sponsors account set up, you can add your username to `gh_s
 gh_sponsor: ianfab
 ```
 
-Further information on Sponsors feature available in the [Sponsors docs page](/bulma-simple-theme/docs/sponsors/).
+Further information on Sponsors feature available in the [Sponsors docs page](/docs/sponsors/).
 
 ## Disqus
 

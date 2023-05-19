@@ -11,6 +11,6 @@ callouts: example_callouts
 
 This is an example landing page. It is built using the Hero and Callouts.
 
-[View the Hero docs](/bulma-simple-theme/docs/pages/hero/)
+[View the Hero docs](/docs/pages/hero/)
 
-[View the Callouts docs](/bulma-simple-theme/docs/page-components/callouts)
+[View the Callouts docs](/docs/page-components/callouts)
