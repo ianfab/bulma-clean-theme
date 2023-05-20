@@ -12,6 +12,7 @@ features:
     - label: Available in multiple sizes
       icon: fa-fighter-jet
 rating: 3
+tags: [Category2]
 ---
 
 This is the content about the product.

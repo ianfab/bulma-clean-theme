@@ -17,8 +17,31 @@ Create a page, for example `products.md`, with the `layout: product-category` in
 title: Products
 subtitle: Check out our range of products
 layout: product-category
+collection: products
 show_sidebar: false
 sort: title
 ```
 
 [View example Category page](/bulma-simple-theme/products/)
+
+## Product Include
+
+The product include allows you to include products anywhere.
+
+The include needs only the products as argument, and an optional tag for filtering.
+
+Below is an example for the include.
+
+{% raw %}
+<code>
+&lt;div class="columns is-multiline"><br/>
+{% include product-items.html products=site.products tag="Category1" %}<br/>
+&lt;/div>
+</code>
+{% endraw %}
+
+## Example Product Include
+
+<div class="columns is-multiline">
+{% include product-items.html products=site.products tag="Category1" %}
+</div>
