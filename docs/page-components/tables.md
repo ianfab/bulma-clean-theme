@@ -11,13 +11,17 @@ toc: true
 
 The table modal allows you to render a table from a data file, e.g., CSV or TSV.
 
-The include needs only the data as argument, and an optional caption.
+The include needs only the data as argument, and an optional caption, as well as an optional key and value for filtering.
 
-Below is an example for the include.
+Below are examples for the include.
 
 {% raw %}
 <code>
 {% include table.html data=site.data.example_table caption="example table" %}
+</code>
+
+<code>
+{% include table.html data=site.data.example_table caption="filtered table" key="b" value="5" %}
 </code>
 {% endraw %}
 
@@ -25,4 +29,8 @@ Below is an example for the include.
 
 <div>
 {% include table.html data=site.data.example_table caption="example table" %}
+</div>
+
+<div>
+{% include table.html data=site.data.example_table caption="filtered table" key="b" value="5" %}
 </div>

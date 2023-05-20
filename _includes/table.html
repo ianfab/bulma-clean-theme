@@ -10,12 +10,14 @@
     </tr>
   </thead>
   <tbody>
-  {% for spec in include.data %} 
+  {% for spec in include.data %}
+  {% if include.key == nil or spec[include.key] == include.value %}
     <tr>
     {% for value in spec %}
       <td>{{ value[1] }}</td>
     {% endfor %}
     </tr>
+  {% endif %}
   {% endfor %}
   </tbody>
 </table>
