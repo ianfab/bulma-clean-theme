@@ -1,0 +1,21 @@
+<table>
+  {% if include.caption %}
+  <caption>{{ include.caption }}</caption>
+  {% endif %}
+  <thead>
+    <tr>
+    {% for column in include.data[0] %} 
+      <th>{{ column[0] }}</th>
+    {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+  {% for spec in include.data %} 
+    <tr>
+    {% for value in spec %}
+      <td>{{ value[1] }}</td>
+    {% endfor %}
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>

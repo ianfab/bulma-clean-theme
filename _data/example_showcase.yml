@@ -37,5 +37,5 @@ items:
     features_styles: is-centered is-outlined
     link: https://github.com/ianfab/bulma-simple-theme
     link_text: View Theme
-    tags: Jekyll,Bulma,CSS
+    tags: Jekyll,Bulma,CSS,Theme
     github: ianfab/bulma-simple-theme

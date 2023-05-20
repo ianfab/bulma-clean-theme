@@ -3,7 +3,7 @@ title: Showcase
 subtitle: An example showcase page
 description: An example showcase page to help you easily display your work
 layout: page
-showcase: showcase_example
+showcase: example_showcase
 show_sidebar: false
 ---
 

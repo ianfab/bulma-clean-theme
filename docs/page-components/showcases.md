@@ -57,8 +57,29 @@ Set the showcase in the page's front matter to be the name of the showcase data 
 title: Showcase
 subtitle: An example showcase page
 layout: page
-showcase: showcase_example
+showcase: example_showcase
+#showcase_tag: Theme
 show_sidebar: false
 ```
 
+You can add the optional showcase_tag attribute to filter the showcase items for a specific tag.
 
+## Showcase Include
+
+The showcase include allows you to include showcases anywhere.
+
+The include needs only the items as argument, and an optional tag for filtering.
+
+Below is an example for the include.
+
+{% raw %}
+<code>
+{% include showcase-items.html items=site.data.example_showcase.items tag="Theme" %}
+</code>
+{% endraw %}
+
+## Example Showcase Include
+
+<div>
+{% include showcase-items.html items=site.data.example_showcase.items tag="Theme" %}
+</div>
