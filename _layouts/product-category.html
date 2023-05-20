@@ -9,7 +9,8 @@ show_sidebar: false
     {{ page.content }}
   </div>
 
-  {% assign sorted_products = site[page.collection] | sort:page.sort %}
+  {% assign collection = page.collection | default: "products" %}
+  {% assign sorted_products = site[collection] | sort:page.sort %}
   {% include product-items.html products=sorted_products %}
 
 </div>
